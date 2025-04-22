@@ -1,0 +1,11 @@
+.{
+    .name = .nanoid,
+    .version = "1.0.5",
+    .fingerprint = 0x41fce8f69f3310d9,
+    .minimum_zig_version = "0.14.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
